@@ -7,5 +7,6 @@ assignees: ''
 
 ---
 
+
 ---
-We've tried to integrate visit-users email list with a GitHub issues repository. You can easily view this issue on GitHub. If you have a GitHub account, you can add and edit comments there, add large attachments and easily search historical information there. There are many other advantages to using GitHub issues for such interactions and the VisIt team encourages you to do so.
+We're trying a new approach to visit-users email list by handling inquiries there as GitHub issues. There are [many advantages](https://github.com/visit-dav/live-customer-response/wiki/GitHub-Issues-vs.-Email) both for developers and users in doing so. If you don't want to be bothered and just want to continue using simple ole email on visit-users, you are currently free to do so. But, when participating in a thread, please be sure to reply to the thread with `[visit-dav/live-customer-response]` in the subject line. Users who already have GitHub accounts are free to go work with the issue [there](https://github.com/visit-dav/live-customer-response/issues).
