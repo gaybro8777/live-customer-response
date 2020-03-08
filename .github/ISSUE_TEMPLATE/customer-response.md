@@ -5,8 +5,5 @@ title: ''
 labels: ''
 assignees: ''
 
----
-
-
----
-We're trying a new approach to visit-users email list by handling inquiries there as GitHub issues. There are [many advantages](https://github.com/visit-dav/live-customer-response/wiki/GitHub-Issues-vs.-Email) both for developers and users in doing so. If you don't want to be bothered and just want to continue using simple ole email on visit-users, you are currently free to do so. But, when participating in a thread, please be sure to reply to the thread with `[visit-dav/live-customer-response]` in the subject line. Users who already have GitHub accounts are free to go work with the issue [there](https://github.com/visit-dav/live-customer-response/issues).
+We're trying to [combine `visit-users` email list with GitHub issues](https://github.com/visit-dav/live-customer-response/wiki/How-the-new-GitHub-----visit-users-Email-Integration-Works). When replying on `visit-users`, please
+reply **only** to emails with a *Subject* line that ends with `- as GitHub issue (#K)` where `K` is some number.
