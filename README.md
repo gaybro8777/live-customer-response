@@ -1,5 +1,5 @@
 # Live Customer Response Activity
-An issues-only repo to track [live customer support](https://visit-sphinx-github-user-manual.readthedocs.io/en/dev_manual/LiveCustomerResponse.html) incidents and activity.
+An issues-only repo to track [live customer support](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/SiteReliabilityEngineering.html) incidents and activity.
 
 The VisIt team has taken measures to [integrate GitHub issues with our email list(s)](https://github.com/visit-dav/live-customer-response/wiki/How-the-new-GitHub-visit-users-Email-Integration-Works).
 
